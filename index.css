@@ -1,0 +1,10 @@
+h1 {
+    background-color: lightblue;
+    color: aliceblue;
+  }
+  @media only screen and (max-width: 600px) {
+    h1 {
+        background-color: black;
+        color: aliceblue;
+      }
+  }
